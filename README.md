@@ -1,6 +1,9 @@
 # Smartbridge-Externship
 Contains the Data Analytics - Smartbridge Externship Files.
 
+
+The files same as above are also uploaded in following links:
+
 - Assignments folder contains all the three Assignments. (
 https://drive.google.com/drive/folders/15hf-c_p9vpKjTmwdGu1GVT6_39qQZqrT?usp=share_link)
 - Demo Video is uploaded at the drive link provided inside the corresponding .txt file. (https://drive.google.com/file/d/127p7n23b4AS741xh-6lK99sgkrcLc1e9/view?usp=drive_link)
