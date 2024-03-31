@@ -1,4 +1,4 @@
-# Smartbridge-Externship
+# Smartbridge (SmartInternz) - Externship
 Contains the Data Analytics - Smartbridge Externship Files.
 
 
